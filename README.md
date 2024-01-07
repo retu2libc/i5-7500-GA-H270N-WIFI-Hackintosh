@@ -1,4 +1,4 @@
-# i5-7500-GA-H270N-WIFI-Hackintosh
+# i5-7500-GA-H270N-WIFI OpenCore 0.9.7
 
 This is currently designed to be run with Big Sur.
 
