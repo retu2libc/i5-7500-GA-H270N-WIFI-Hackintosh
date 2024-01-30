@@ -1,7 +1,7 @@
+# i5-7500-GA-H270N-WIFI Hackintosh
+Designed to run using the iGPU and mobo on board bluetooth and wifi.
 ## Software Specifications
-
-i5-7500-GA-H270N-WIFI, Big Sur 11.7.10, OpenCore 0.9.7
-
+Big Sur 11.7.10, OpenCore 0.9.7
 ## Hardware Specifications
 ```
 CPU: i5-7500
