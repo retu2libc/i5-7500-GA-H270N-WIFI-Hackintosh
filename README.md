@@ -1,6 +1,6 @@
-# i5-7500-GA-H270N-WIFI, Big Sur 11.7.10, OpenCore 0.9.7
+## Software Specifications
 
-This is currently designed to be run with Big Sur.
+i5-7500-GA-H270N-WIFI, Big Sur 11.7.10, OpenCore 0.9.7
 
 ## Hardware Specifications
 ```
